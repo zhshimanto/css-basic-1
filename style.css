@@ -5,3 +5,9 @@
 .header-right{
     width: 50%;
 }
+
+.slider .slider-1, .slider .slider-2 img, .slider .slider-3 img{
+    width: 400px;
+    height: 275px;
+
+}
