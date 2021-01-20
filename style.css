@@ -1,15 +1,29 @@
 .header{
     width: 100%;
+    display: flex;
 }
 .header-left{
     width: 50%;
     float: left;
+}
+.header-left a {
+    font-size: 22px;
+    color: #000;
+    text-decoration: none;
+    padding: 15px;
 }
 
 .header-right{
     width: 50%;
 }
 
+.header-right ul {
+    list-style: none;
+    display: flex;
+}
+.header-right ul li {
+    margin-right: 2%;
+}
 .slider .slider-1, .slider .slider-2 img, .slider .slider-3 img{
     width: 400px;
     height: 275px;
