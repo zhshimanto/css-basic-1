@@ -13,10 +13,6 @@
     padding: 15px;
 }
 
-.header-right{
-    width: 50%;
-}
-
 .header-right ul {
     list-style: none;
     display: flex;
